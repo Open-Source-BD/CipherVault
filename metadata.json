@@ -1,0 +1,6 @@
+{
+  "name": "CipherVault",
+  "description": "Zero-knowledge offline password manager with local AES-256-GCM encryption, biometric security, and encrypted backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
